@@ -1,0 +1,11 @@
+text,label
+"public int addNumbers(int a, int b) { return a + b; }",0
+"public int multiplyNumbers(int a, int b) { return a * b; }",1
+"public void printMax(int a, int b) { System.out.println(Math.max(a, b)); }",0
+"public int subtractNumbers(int a, int b) { return a - b; }",0
+"public void printMin(int a, int b) { System.out.println(Math.min(a, b)); }",0
+"public long largeMultiplication(int a, int b) { return (long) a * b; }",1
+"public double calculateArea(double length, double width) { return length * width; }",0
+"public int increment(int a) { return a + 1; }",0
+"public int decrement(int a) { return a - 1; }",0
+"public void printSquareRoot(int a) { System.out.println(Math.sqrt(a)); }",0
