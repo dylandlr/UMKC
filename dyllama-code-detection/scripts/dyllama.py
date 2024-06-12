@@ -6,3 +6,5 @@ model = OllamaModel(model_name)
 
 # Check model information
 print(model)
+
+
