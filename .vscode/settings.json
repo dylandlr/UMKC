@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["oflow", "ollama", "pycuda"]
+  "cSpell.words": [
+    "aiplatform",
+    "gapic",
+    "oflow",
+    "ollama",
+    "protobuf",
+    "pycuda"
+  ],
+  "git.ignoreLimitWarning": true
 }
