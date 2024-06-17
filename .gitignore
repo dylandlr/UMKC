@@ -4,3 +4,4 @@ report/
 out/
 *.json
 data/cve/cvelistV5-main/cves/1999/0xxx/*
+.cpp
